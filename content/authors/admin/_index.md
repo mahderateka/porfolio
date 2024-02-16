@@ -94,5 +94,5 @@ My proficiency extends from leveraging data from Electronic Health Records (EHR)
 
 One of my favorite things about analytics is storytelling. I take pride in infusing narratives into my analyses, making complex information accessible and engaging. Beyond the analytical realm, I am deeply driven by a passion for problem-solving and leveraging technology to address healthcare disparities. Growing up in a third world country has peaked my interest in understanding and challenging these disparities. 
 
-Outside of work, I enjoy traveling, spending time  with my wonderful husband + ![dog]('/assets/media/noodle.png'), and hosting my family and friends. 
+Outside of work, I enjoy traveling, spending time  with my wonderful husband + [dog](/assets/media/noodle.png), and hosting my family and friends. 
 {style="text-align: justify;"}
