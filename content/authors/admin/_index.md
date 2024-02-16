@@ -14,6 +14,7 @@ interests:
 - Public Health
 - Data science 
 - Real-World Evidence (RWE)
+- Healthcare disparities 
 last_name: Teka
 #name_pronunciation: Chien Shiung Wu
 # organizations:
@@ -24,17 +25,17 @@ skills:
 - items:
   - description: ""
     icon: 
-    icon_pack: researcherid
+    icon_pack: 
     name: R / Rshiny
     percent: 100
   - description: ""
-    icon: SQL
-    icon_pack: fas
+    icon: 
+    icon_pack: 
     name: SQL
     percent: 80
   - description: ""
-    icon: chart-line
-    icon_pack: fab
+    icon: 
+    icon_pack: 
     name: Python
     percent: 70
   

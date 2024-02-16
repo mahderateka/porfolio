@@ -202,12 +202,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
+      city: Nashville
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      #postcode: "94305"
+      region: TN
+      #street: 450 Serra Mall
     #appointment_url: https://calendly.com
    # autolink: true
     contact_links:
