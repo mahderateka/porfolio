@@ -1,5 +1,5 @@
 ---
-bio: My interests lie at the intersection of data and healthcare, with the ultimate goal of leveraging data to promote healthcare access for all and combatting healthcare disparities.
+bio: My interests lie at the intersection of data and healthcare, with the ultimate goal of leveraging data to promote healthcare access for all. 
 education:
   courses:
   - course: Master of Science in Bioinformatics and Computational Biology
@@ -88,12 +88,11 @@ superuser: true
 ---
 
 
-With over 7 years of experience in data analytics, I bring a unique blend of expertise and passion to the field. My professional journey began as a Bioinformatician at the CDC, where I dedicated my initial years to Next Generation Sequencing (NGS) Data analytics across diverse domains such as virology, oncology, respiratory, and neurology.
+With over 7 years of experience in data analytics, I bring a unique blend of expertise and passion to the field. My professional journey began as a Bioinformatician at the CDC, where I dedicated my initial years to Next Generation Sequencing (NGS) Data analytics in virology. 
 
-My proficiency extends to leveraging data from Electronic Health Records (EHR), claims, and NGS, reflecting my adaptability and versatility in handling various datasets. I've had the privilege of contributing to different divisions within a government agency, the CDC, as well as thriving in the dynamic environment of startup ventures in the private sector.
+My proficiency extends from leveraging data from Electronic Health Records (EHR), claims to NGS, reflecting my adaptability and versatility in handling various datasets. I have had the privilege of contributing to different divisions within a government agency, the CDC, as well as thriving in the dynamic environment of startup ventures in the private sector.
 
-One of my favorite things about analytics is storytelling. I take pride in infusing narratives into my analyses, making complex information accessible and engaging. This storytelling approach is more than a professional skill; it's a reflection of my personality and genuine passion for the work I do.
-Beyond the analytical realm, I am deeply driven by a passion for problem-solving and leveraging technology to address healthcare disparities. Growing up in a third world country has peaked my interest in understanding and challenging these disparities, with a particular focus on improving healthcare access and patient outcomes.
+One of my favorite things about analytics is storytelling. I take pride in infusing narratives into my analyses, making complex information accessible and engaging. Beyond the analytical realm, I am deeply driven by a passion for problem-solving and leveraging technology to address healthcare disparities. Growing up in a third world country has peaked my interest in understanding and challenging these disparities. 
 
-Outside of work, I enjoy traveling, spending time  with my wonderful husband and dog, and hosting my family and friends. 
+Outside of work, I enjoy traveling, spending time  with my wonderful husband + ![dog]('/assets/media/noodle.png'), and hosting my family and friends. 
 {style="text-align: justify;"}
