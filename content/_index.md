@@ -52,27 +52,57 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Verantos
+      # company_logo: org-gc
       company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+      date_end: "2023-08-01"
+      date_start: "2022-05-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+          * Real-world data analytics  
+          * Data wrangling
+          * Facilate technical communication with internal and external stakeholders 
+      location: Remote
+      title: Senior RWE Data Scientist 
+    - company: Syapse 
+     # company_logo: org-x
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2022-04-01"
+      date_start: "2019-06-01"
+      description: |2-
+          Responsibilities include:
+
+          * Real-world data analytics  
+          * Developing R functions for an internal R package 
+          * Build data visualization library 
+      location: Remote
+      title: Senior Insights Analyst 
+      - company: Division of Influenza, CDC
+     # company_logo: org-x
+      company_url: ""
+      date_end: "2019-06-01"
+      date_start: "2018-01-01"
+      description: |2-
+          Responsibilities include:
+
+          * Surveillance of seasonal flu viruses 
+          * Phylogenenic data analysis 
+          * Retrieve, parse and curate Next Generation Sequence (NGS) data
+      location: Atlanta, GA
+      title: Bioinformatics Data Analyst 
+       - company: Division of Viral Hepatitis, CDC
+     # company_logo: org-x
+      company_url: ""
+      date_end: "2017-07-01"
+      date_start: "2016-07-01"
+      description: |2-
+          Responsibilities include:
+
+          * Transform NGS data to Physical-Chemical Property based numeric feature vectors
+           * Use NGS data to predict HCV infection duration
+      location: Atlanta, GA
+      title: APHL/CDC Bioinformatics Fellow 
     title: Experience
   design:
     columns: "2"
