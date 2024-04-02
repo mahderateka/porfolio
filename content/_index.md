@@ -53,59 +53,52 @@ sections:
     date_format: Jan 2006
     items:
     - company: Verantos
-      # company_logo: org-gc
       company_url: ""
       date_end: "2023-08-01"
       date_start: "2022-05-01"
       description: |2-
-          Responsibilities include:
+          Responsibilities included:
 
-          * Real-world data analytics  
+          * Real-world data analytics
           * Data wrangling
-          * Facilate technical communication with internal and external stakeholders 
+          * Facilate technical communication with internal and external stakeholders
       location: Remote
-      title: Senior RWE Data Scientist 
-    - company: Syapse 
-     # company_logo: org-x
+      title: Senior RWE Data Scientist
+    - company: Syapse
       company_url: ""
       date_end: "2022-04-01"
+      date_start: "2019-06-19"
+      description: |2-
+          Responsibilities included:
+
+          * Real-world data analytics
+          * Developing R functions for an internal R package
+          * Build data visualization modules
+      location: Remote
+      title: Senior Insights Analyst
+    - company: Division of Influenza, CDC
+      company_url: ""
+      date_end: "2017-01-07"
       date_start: "2019-06-01"
       description: |2-
-          Responsibilities include:
+          Responsibilities included:
 
-          * Real-world data analytics  
-          * Developing R functions for an internal R package 
-          * Build data visualization library 
-      location: Remote
-      title: Senior Insights Analyst 
-      - company: Division of Influenza, CDC
-     # company_logo: org-x
-      company_url: ""
-      date_end: "2019-06-01"
-      date_start: "2018-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Surveillance of seasonal flu viruses 
-          * Phylogenenic data analysis 
+          * Surveillance of seasonal flu viruses
           * Retrieve, parse and curate Next Generation Sequence (NGS) data
+          * Phylogenetic data analysis
       location: Atlanta, GA
-      title: Bioinformatics Data Analyst 
-       - company: Division of Viral Hepatitis, CDC
-     # company_logo: org-x
+      title: Bioinformatics Data Analyst
+    - company: Division of Viral Hepatitis, CDC
       company_url: ""
-      date_end: "2017-07-01"
-      date_start: "2016-07-01"
+      date_end: "2017-01-07"
+      date_start: "2019-06-01"
       description: |2-
-          Responsibilities include:
+          Responsibilities included:
 
           * Transform NGS data to Physical-Chemical Property based numeric feature vectors
-           * Use NGS data to predict HCV infection duration
+          * Build models to predict HCV infection duration 
       location: Atlanta, GA
-      title: APHL/CDC Bioinformatics Fellow 
-    title: Experience
-  design:
-    columns: "2"
+      title: APHL/CDC Bioinformatics Fellow
 # - block: accomplishments
 #   content:
 #     date_format: Jan 2006
@@ -162,7 +155,7 @@ sections:
   # design:
   #   columns: "2"
   #   view: compact
-  id: posts
+  #id: posts
 - block: portfolio
   content:
     buttons:
