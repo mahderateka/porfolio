@@ -16,28 +16,38 @@ interests:
 - Real-World Evidence (RWE)
 - Healthcare disparities 
 last_name: Teka
-#name_pronunciation: Chien Shiung Wu
-# organizations:
-# - name: Stanford University
-#   url: https://www.stanford.edu/
-# role: Professor of Artificial Intelligence
 skills:
 - items:
   - description: ""
     icon: 
     icon_pack: 
-    name: R / Rshiny
+    name: R 
     percent: 100
   - description: ""
     icon: 
     icon_pack: 
-    name: SQL
-    percent: 80
+    name: Shiny 
+    percent: 100
   - description: ""
     icon: 
     icon_pack: 
     name: Python
+    percent: 90
+  - description: ""
+    icon: 
+    icon_pack: 
+    name: SQL
+    percent: 90
+  - description: ""
+    icon: 
+    icon_pack: 
+    name: Tableau
     percent: 70
+  - description: ""
+    icon: 
+    icon_pack: 
+    name: Perl
+    percent: 60
   
   name: Technical
 - color: '#eeac02'
@@ -87,12 +97,7 @@ superuser: true
 #title: 吳健雄
 ---
 
+With over 7 years of experience in data analytics, I bring a unique blend of expertise and passion to the field. My professional journey began with a fellowship at the CDC, where I utilized Next Generation Sequencing (NGS) data to predict the duration of Hepatitis C infection. After ~3 years in public service, I transitioned into the Real-world Evidence (RWE) space, where I focus on leveraging Electronic Health Records (EHR), claims, and registry datasets to conduct RWE studies across various therapeutic areas such as Virology, Oncology, Respiratory, and Neurology.
 
-With over 7 years of experience in data analytics, I bring a unique blend of expertise and passion to the field. My professional journey began as a Bioinformatician at the CDC, where I dedicated my initial years to Next Generation Sequencing (NGS) Data analytics in virology. 
-
-My proficiency extends from leveraging data from Electronic Health Records (EHR), claims to NGS, reflecting my adaptability and versatility in handling various datasets. I have had the privilege of contributing to different divisions within a government agency, the CDC, as well as thriving in the dynamic environment of startup ventures in the private sector.
-
-One of my favorite things about analytics is storytelling. I take pride in infusing narratives into my analyses, making complex information accessible and engaging. Beyond the analytical realm, I am deeply driven by a passion for problem-solving and leveraging technology to address healthcare disparities. Growing up in a third world country has peaked my interest in understanding and challenging these disparities. 
-
-Outside of work, I enjoy traveling, spending time  with my wonderful husband + dog, and hosting my family and friends. 
+I take pride in infusing narratives into my analyses, making complex information accessible and engaging. This storytelling approach is more than a professional skill; it's a reflection of my personality and genuine passion for the work I do. Outside of work, I enjoy traveling, spending time with my wonderful husband and dog, and hosting my family and friends.
 {style="text-align: justify;"}
