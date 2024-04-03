@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+external_link: https://rpubs.com/mahderateka/covid19_analysis
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: An analysis outlining steps taken to clean and prep a COVID-19 time series dataset with data points regarding number of affected cases, deaths and recovery by country & region. 
 tags:
 - Demo
-title: External Project
+title: COVID-19 Analysis: Number of new infections, recovery and death from January 2020 to May 2021.
 ---
