@@ -7,5 +7,5 @@ image:
 summary: An analysis outlining steps taken to clean and prep a COVID-19 time series dataset with data points regarding number of affected cases, deaths and recovery by country & region. 
 tags:
 - Demo
-title: COVID-19 Analysis: Number of new infections, recovery and death from January 2020 to May 2021.
+title: COVID-19 Analysis - Number of new infections, recovery and death from January 2020 to May 2021
 ---
